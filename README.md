@@ -53,7 +53,7 @@ SceneSense/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/jana2007/SceneSense-AI.git
 ```
 
 ### 2. Navigate to the project folder
